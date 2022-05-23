@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reforestation-potential/static/css/main.a9ebac9c.css",
+    "main.js": "/Reforestation-potential/static/js/main.65aade1e.js",
+    "static/js/787.717e2bc1.chunk.js": "/Reforestation-potential/static/js/787.717e2bc1.chunk.js",
+    "index.html": "/Reforestation-potential/index.html",
+    "main.a9ebac9c.css.map": "/Reforestation-potential/static/css/main.a9ebac9c.css.map",
+    "main.65aade1e.js.map": "/Reforestation-potential/static/js/main.65aade1e.js.map",
+    "787.717e2bc1.chunk.js.map": "/Reforestation-potential/static/js/787.717e2bc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ebac9c.css",
+    "static/js/main.65aade1e.js"
+  ]
+}
